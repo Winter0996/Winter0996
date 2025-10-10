@@ -13,15 +13,13 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Nathan Winter</h1>
-<h3 align="center">A passionate Computer Science student at Johnson & Wales University</h3>
+<h3 align="center">A passionate Computer Science graduate from Johnson & Wales University</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
-- 🌱 I’m currently learning Integration Testing 
+- 📫 How to reach me **natefwinter96@gmail.com**
 
-- 📫 How to reach me **nwinter1009@gmail.com**
-
-- ⚡ Fun fact **I enjoy gaming,history and free-writing**
+- ⚡ Fun fact **I am an avid gamer and history buff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
