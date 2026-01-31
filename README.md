@@ -1,19 +1,7 @@
-Star this repo
-13428
-Fork on GitHub
-3536
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Nathan Winter</h1>
-<h3 align="center">A passionate Computer Science graduate from Johnson & Wales University</h3>
+<h3 align="center">Computer Science graduate (Software Engineering) from Johnson & Wales University.
+Passionate about full-stack development, clean code, and continuous learning.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
