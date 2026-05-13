@@ -76,30 +76,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winter0996&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winter0996&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=winter0996&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### ⏱️ Weekly Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=winter0996&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</p>
-
-> 💡 **Note:** WakaTime stats require a free [WakaTime](https://wakatime.com) account and the IDE plugin to be active. Replace `winter0996` in the URL above with your WakaTime username once set up.
-
----
-
 ### 🏅 Certifications
 
 - 🎓 Johnson & Wales University — Coding For Web Certification
