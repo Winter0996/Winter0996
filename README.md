@@ -190,7 +190,7 @@ Multi-tenant job application management platform built with a focus on secure ar
 * ☁️ No cloud dependency
 * 🛡️ Full local privacy
 
-🔗 **[View Repository](https://github.com/Winter0996/local-rag-assistantY)**
+🔗 **[View Repository](https://github.com/Winter0996/local-rag-assistant)**
 
 ---
 
